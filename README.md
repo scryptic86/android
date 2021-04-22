@@ -1,3 +1,9 @@
+
+This is NOT the original repository! Please follow the linked original repository if you want to contribute to C-Sploit.
+Thank You!😁
+
+
+
 # cSploit: Android network pentesting suite
 
 <img src="http://i.imgur.com/cFll5P9.jpg" width="250" />
